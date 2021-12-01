@@ -29,7 +29,7 @@ public class Mi8voproyect {
         String sisop = sc.nextLine();
         System.out.println("Los datos inhresados por usted son: "+ "\n Nombre y "
                 + "Apellido: "+name+"\n su edad es: "+edad +"\n indicó que su "
-                        + "hobbie es: "+hobbie+" y su editor preferido es: "
+                        + "hobbie es: "+hobbie+" y que su editor preferido es: "
                 +edipref+"\n y el sistema operativo que usa es: "+sisop );
     }
     
